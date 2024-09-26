@@ -1,0 +1,6 @@
+@Ordersys_HostAddress = http://localhost:5181
+
+GET {{Ordersys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
