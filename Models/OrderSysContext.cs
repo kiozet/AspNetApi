@@ -11,7 +11,7 @@ public class OrderSysContext : IdentityDbContext {
   OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
     if (!optionsBuilder.IsConfigured)
       optionsBuilder.UseNpgsql(
-          "Host=localhost;Port=5432;Username=postgres;Password=1q9o8i2w;" +
+          "Host=db;Port=5432;Username=postgres;Password=123;" +
           "Database=test");
   }
   public DbSet<Order> Orders { get; set; } = null!;

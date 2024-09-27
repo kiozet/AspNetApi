@@ -264,3 +264,4 @@ C:\Users\KKKK\Desktop\programming\aspnet\Ordersys\bin\Debug\net8.0\Microsoft.Ext
 C:\Users\KKKK\Desktop\programming\aspnet\Ordersys\bin\Debug\net8.0\Scrutor.dll
 C:\Users\KKKK\Desktop\programming\aspnet\Ordersys\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Users\KKKK\Desktop\programming\aspnet\Ordersys\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\KKKK\Desktop\programming\aspnet\Ordersys\obj\Debug\net8.0\Ordersys.sourcelink.json
